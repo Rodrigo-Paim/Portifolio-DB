@@ -1,7 +1,7 @@
 [
   {
     "img": "https://images.pexels.com/photos/159866/books-book-pages-read-literature-159866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "titulo": "Biblitoeca DB",
+    "titulo": "Biblioteca DB",
     "categoria": "Java, Spring boot, BackEnd",
     "resumo": "Este projeto é uma API REST utilizando Spring num sistema de biblioteca",
     "href": "https://github.com/Rodrigo-Paim/Biblioteca-DB"

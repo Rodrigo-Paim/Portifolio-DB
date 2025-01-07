@@ -14,7 +14,7 @@
     "href": "https://github.com/Rodrigo-Paim/challenge-eventstore"
   },
   {
-    "img": "../src/assets/img/Citibank-Logo.jpg",
+    "img": "https://images.pexels.com/photos/268941/pexels-photo-268941.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "titulo": "Citi Api",
     "categoria": "Java, Spring boot, BackEnd",
     "resumo": "Este projeto é uma aplicação do programa de bootcamp para formar novos desenvolvedores Java, patrocinado pelo banco Citi ao qual eu particiei a uns anos atras",
